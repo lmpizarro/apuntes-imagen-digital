@@ -77,6 +77,7 @@ Puede contener imágenes DNG, TIFF, XMP y/o MXF
 
 Soporta cámaras stereo y múltiples canales de audio. 
 
-
-
 ### Metadata: dato sobre el dato, información del contenido del archivo
+
+
+![nucleos](/images/nucleos.png)
