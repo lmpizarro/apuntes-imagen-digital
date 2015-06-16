@@ -68,7 +68,7 @@ a la geometria rectangular típica.
 
 Es un formato de archivo de imagen abierto, sin pérdida y RAW (crudo)
 
-# Cinems DNG [link](https://en.wikipedia.org/wiki/CinemaDNG)
+# Cinema DNG [link](https://en.wikipedia.org/wiki/CinemaDNG)
 
 Formato de archivo abierto propuesto por Adobe que contiene,
 segmentos de película compuestos por secuencia de archivos RAW
