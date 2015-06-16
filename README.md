@@ -22,7 +22,7 @@ de la información original. Ejemplos archivos JPG
 
 # Formato PNG [link](https://en.wikipedia.org/wiki/Portable_Network_Graphics)
 
-Encabezado del archivo
+## Encabezado del archivo
 
 ## Fragmentos
 
@@ -76,7 +76,6 @@ segmentos de película compuestos por secuencia de archivos RAW
 Puede contener imágenes DNG, TIFF, XMP y/o MXF
 
 Soporta cámaras stereo y múltiples canales de audio. 
-
 
 
 
